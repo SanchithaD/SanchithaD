@@ -1,6 +1,6 @@
-Hi, I am Sanchitha Dinesh 👋 👩🏻‍💻
+Hi, I'm Sanchitha Dinesh 👋 👩🏻‍💻
 
-I'm a Sophomore at Lynbrook high school. I am passionate about computer science and engineering. I enjoy solving day to day problems with software and engineering concepts.
+I am a Sophomore at Lynbrook high school and passionate about computer science & engineering. I enjoy solving day to day problems with software and engineering concepts.
 
 <!--
 **SanchithaD/SanchithaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
