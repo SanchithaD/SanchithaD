@@ -1,4 +1,6 @@
-<!-- ### Hi there 👋
+Hi, I am Sanchitha Dinesh 👋 👩🏻‍💻
+
+I'm a Sophomore at Lynbrook high school. I am passionate about computer science and engineering. I enjoy solving day to day problems with software and engineering concepts.
 
 <!--
 **SanchithaD/SanchithaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Sanchitha Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanchithaD&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&level=V)
+<!-- ![Sanchitha Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanchithaD&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&level=V) -->
