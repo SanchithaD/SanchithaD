@@ -1,6 +1,6 @@
 Hi, I'm Sanchitha Dinesh 👋 👩🏻‍💻
 
-I'm a sophomore at Lynbrook high school with a strong interest in app development & machine learning.
+I am a sophomore at Lynbrook high school with a strong interest in app development & machine learning.
 
 <!--
 **SanchithaD/SanchithaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
