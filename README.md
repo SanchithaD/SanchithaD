@@ -1,4 +1,4 @@
-Hi, I'm Sanchitha Dinesh 👋�🏻‍💻
+Hi, I'm Sanchitha Dinesh 👋�🏻‍�
 
 I am a sophomore at Lynbrook with a strong interest in app development & machine learning.
 
