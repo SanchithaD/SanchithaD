@@ -1,6 +1,6 @@
 Hi, I'm Sanchitha Dinesh
 
-I am a Computer Scince major at University of Maryland, College Park with a strong interest in app development & machine learning.
+I am a Computer Science major at University of Maryland, College Park with a strong interest in app development & machine learning.
 
 <!--
 **SanchithaD/SanchithaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
